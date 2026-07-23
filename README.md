@@ -10,3 +10,8 @@ Personal notes on version control, containers, CI/CD, and deploying apps.
 - CI/CD
 - AWS
 - Vercel
+
+## Structure
+
+- `aws/iam/roles-and-policies.md`
+- `aws/rds/aurora-postgresql.md`
